@@ -1,0 +1,58 @@
+POST http://localhost:8081/register
+Content-Type: application/json
+
+{
+  "username": "1989203838@qq.com",
+  "password": "123456",
+  "nickname": "年糕",
+  "sex": "女",
+  "birthday": "2000-09-26"
+}
+
+###
+POST http://localhost:8081/register
+Content-Type: application/json
+
+{
+  "username": "846097464@qq.com",
+  "password": "123456",
+  "nickname": "狼来了",
+  "sex": "男",
+  "birthday": "2001-01-26"
+}
+
+###
+POST http://localhost:8081/register
+Content-Type: application/json
+
+{
+  "username": "123456789@qq.com",
+  "password": "123456",
+  "nickname": "test1",
+  "sex": "女",
+  "birthday": "2001-02-22"
+}
+
+###
+POST http://localhost:8081/register
+Content-Type: application/json
+
+{
+  "username": "1151928349@qq.com",
+  "password": "123456",
+  "nickname": "Nehcyppah",
+  "sex": "女",
+  "birthday": "2001-02-22"
+}
+
+###
+POST http://localhost:8081/register
+Content-Type: application/json
+
+{
+  "username": "987654321@qq.com",
+  "password": "123456",
+  "nickname": "test2",
+  "sex": "女",
+  "birthday": "2001-02-22"
+}

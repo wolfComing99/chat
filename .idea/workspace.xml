@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d452046c-9706-4fb4-aa2f-5ede18860668" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="Interface" />
+        <option value="HTTP Public Environment File" />
+        <option value="FxmlFile" />
+        <option value="Class" />
+        <option value="HTTP Request" />
+        <option value="Vue Single File Component" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/back/src/main/java/com/wolf/controller/WebSocket.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/front/src/util/global.js" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/front/src/view/home.vue" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/front/src/router/index.js" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/front/src/components/Friend.vue" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/front/src/components/Chat.vue" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/front/src/App.vue" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\environment\apache-maven-3.6.3\repo" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../../environment/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\environment\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8" />
+  </component>
+  <component name="ProjectId" id="2MUGVJevnIxWL9pGici5koEL4P6" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ChangesTree.GroupingKeys" value="module&#10;directory" />
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="HTTP Request" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/back/src/main/java/com/wolf" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RebelAgentSelection">
+    <selection>jr</selection>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\wolf\wzw\wolf\chat\back\src\main\java\com\wolf" />
+      <recent name="D:\wolf\wzw\wolf\chat\front\src\assets" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\wolf\wzw\wolf\chat\back\src\main\resources\http\login" />
+      <recent name="D:\wolf\wzw\wolf\chat\front\static" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.wolf" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.wolf.config" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.BackApplication">
+    <configuration name="MybatisPlusGenerator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wolf.utils.MybatisPlusGenerator" />
+      <module name="back" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wolf.utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="getByUid#1" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" path="$PROJECT_DIR$/back/src/main/resources/http/user/getByUid.http" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="getMessage#1" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" path="$PROJECT_DIR$/back/src/main/resources/http/message/getMessage.http" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="getNotRead#1" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" path="$PROJECT_DIR$/back/src/main/resources/http/message/getNotRead.http" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="get_friends#1" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" path="$PROJECT_DIR$/back/src/main/resources/http/friend/get_friends.http" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="BackApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="back" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.wolf.BackApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MybatisPlusGenerator" />
+        <item itemvalue="HTTP Request.getNotRead#1" />
+        <item itemvalue="HTTP Request.getMessage#1" />
+        <item itemvalue="HTTP Request.getByUid#1" />
+        <item itemvalue="HTTP Request.get_friends#1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d452046c-9706-4fb4-aa2f-5ede18860668" name="Default Changelist" comment="" />
+      <created>1677814770327</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1677814770327</updated>
+      <workItem from="1677814771618" duration="6000" />
+      <workItem from="1677843401848" duration="1166000" />
+      <workItem from="1681262388185" duration="30969000" />
+      <workItem from="1681458514809" duration="7037000" />
+      <workItem from="1681527440245" duration="2533000" />
+      <workItem from="1681719010680" duration="789000" />
+      <workItem from="1681885493881" duration="867000" />
+      <workItem from="1681953600333" duration="1623000" />
+      <workItem from="1681961496577" duration="51000" />
+      <workItem from="1681963030193" duration="1877000" />
+      <workItem from="1681970329604" duration="3362000" />
+      <workItem from="1681973952284" duration="6539000" />
+      <workItem from="1681980571392" duration="1699000" />
+      <workItem from="1682065895788" duration="2524000" />
+      <workItem from="1682130816208" duration="668000" />
+      <workItem from="1682131911199" duration="71000" />
+      <workItem from="1682131999822" duration="77000" />
+      <workItem from="1682132099268" duration="26000" />
+      <workItem from="1682132248048" duration="9007000" />
+      <workItem from="1682219940625" duration="13043000" />
+      <workItem from="1682298554206" duration="9752000" />
+      <workItem from="1682321858992" duration="31872000" />
+      <workItem from="1682564180247" duration="22008000" />
+      <workItem from="1682822130774" duration="3012000" />
+      <workItem from="1682841436299" duration="595000" />
+      <workItem from="1683163427935" duration="10666000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/front/src/components/LoginVerification.vue</url>
+          <line>2</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/chat$BackApplication.ic" NAME="BackApplication Coverage Results" MODIFIED="1682648281720" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>

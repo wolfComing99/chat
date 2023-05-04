@@ -1,0 +1,4 @@
+GET http://localhost:8081/message/getMessage?uid=2&friendId=3
+Accept: application/json
+
+###

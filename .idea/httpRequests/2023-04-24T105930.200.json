@@ -1,0 +1,17 @@
+{
+  "code": 200,
+  "message": "成功",
+  "result": {
+    "uid": 3,
+    "username": "846097464@qq.com",
+    "password": "faaa15c19896a9a4138541a9db76be42",
+    "nickname": "狼来了",
+    "email": null,
+    "sex": "男",
+    "wealth": null,
+    "birthday": "2001-01-25",
+    "avatar": "1",
+    "online": 0,
+    "salt": "chKaYiFk3+hMXSWvgrlR7g=="
+  }
+}

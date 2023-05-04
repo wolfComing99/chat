@@ -1,0 +1,17 @@
+{
+  "code": 200,
+  "message": "成功",
+  "result": {
+    "uid": 5,
+    "username": "1151928349@qq.com",
+    "password": "a20655204e3ce3690dfc221dc89592fc",
+    "nickname": "Nehcyppah",
+    "sex": "女",
+    "introduction": null,
+    "profession": null,
+    "birthday": "2001-02-22",
+    "avatar": null,
+    "online": null,
+    "salt": "otZQScOrKAvyFpZCOV6UZA=="
+  }
+}

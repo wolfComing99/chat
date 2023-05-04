@@ -1,0 +1,4 @@
+GET http://localhost:8081/message/getNotRead?uid=2
+Accept: application/json
+
+###

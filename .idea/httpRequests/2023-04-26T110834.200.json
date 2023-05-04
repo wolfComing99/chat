@@ -1,0 +1,58 @@
+{
+  "code": 200,
+  "message": "成功",
+  "result": [
+    {
+      "uid": 2,
+      "username": "1989203838@qq.com",
+      "password": "c1baf56cf4ccc4c657f62b03e94a310c",
+      "nickname": "年糕",
+      "sex": "女",
+      "introduction": null,
+      "profession": null,
+      "birthday": "2000-09-25",
+      "avatar": "2",
+      "online": 0,
+      "salt": "ozFyRrqS/1B5fgkEjBi7eA=="
+    },
+    {
+      "uid": 4,
+      "username": "123456789@qq.com",
+      "password": "174e6bf3436c38de71427bb03bdde299",
+      "nickname": "test1",
+      "sex": "女",
+      "introduction": null,
+      "profession": null,
+      "birthday": "2001-02-21",
+      "avatar": null,
+      "online": 0,
+      "salt": "8PlV1NrC1aTuH3EN5MWQYw=="
+    },
+    {
+      "uid": 5,
+      "username": "1151928349@qq.com",
+      "password": "a20655204e3ce3690dfc221dc89592fc",
+      "nickname": "Nehcyppah",
+      "sex": "女",
+      "introduction": null,
+      "profession": null,
+      "birthday": "2001-02-21",
+      "avatar": null,
+      "online": 0,
+      "salt": "otZQScOrKAvyFpZCOV6UZA=="
+    },
+    {
+      "uid": 6,
+      "username": "987654321@qq.com",
+      "password": "b898143d02a3f8ea0fd5f6a151e2e819",
+      "nickname": "test2",
+      "sex": "女",
+      "introduction": null,
+      "profession": null,
+      "birthday": "2001-02-21",
+      "avatar": null,
+      "online": 0,
+      "salt": "XeJj8AWJ6dIFpVWD62/+XA=="
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+POST http://localhost:8081/user/uploadAvatar
+Content-Type: application/json
+
+{
+  "uid": "3",
+  "avatar": "http://localhost:8081/upload/avatar/avatar_3.jpg"
+}
+
+###

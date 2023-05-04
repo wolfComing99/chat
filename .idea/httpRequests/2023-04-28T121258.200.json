@@ -1,0 +1,87 @@
+{
+  "code": 200,
+  "message": "成功",
+  "result": [
+    {
+      "messageId": 45,
+      "sendId": 3,
+      "receiveId": 2,
+      "content": "你好",
+      "createdDate": "2023-04-28T03:26:20",
+      "isRead": 0,
+      "dialogue": 1
+    },
+    {
+      "messageId": 48,
+      "sendId": 3,
+      "receiveId": 2,
+      "content": "好啊🆗",
+      "createdDate": "2023-04-28T03:26:57",
+      "isRead": 0,
+      "dialogue": 1
+    },
+    {
+      "messageId": 50,
+      "sendId": 3,
+      "receiveId": 2,
+      "content": "好像可以耶😀",
+      "createdDate": "2023-04-28T03:27:30",
+      "isRead": 0,
+      "dialogue": 1
+    },
+    {
+      "messageId": 53,
+      "sendId": 3,
+      "receiveId": 2,
+      "content": "是啊",
+      "createdDate": "2023-04-28T03:28:07",
+      "isRead": 0,
+      "dialogue": 1
+    },
+    {
+      "messageId": 54,
+      "sendId": 3,
+      "receiveId": 2,
+      "content": "会报错吗",
+      "createdDate": "2023-04-28T03:28:45",
+      "isRead": 0,
+      "dialogue": 1
+    },
+    {
+      "messageId": 57,
+      "sendId": 3,
+      "receiveId": 2,
+      "content": "原来是代码写错了",
+      "createdDate": "2023-04-28T03:29:39",
+      "isRead": 0,
+      "dialogue": 1
+    },
+    {
+      "messageId": 60,
+      "sendId": 3,
+      "receiveId": 2,
+      "content": "现在能不能到底部",
+      "createdDate": "2023-04-28T03:31:19",
+      "isRead": 0,
+      "dialogue": 1
+    },
+    {
+      "messageId": 62,
+      "sendId": 3,
+      "receiveId": 2,
+      "content": "现在呢",
+      "createdDate": "2023-04-28T03:33:43",
+      "isRead": 0,
+      "dialogue": 1
+    },
+    {
+      "messageId": 65,
+      "sendId": 3,
+      "receiveId": 2,
+      "content": "确实",
+      "createdDate": "2023-04-28T03:34:09",
+      "isRead": 0,
+      "dialogue": 1
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+POST http://localhost:8081/loginByPassword
+Content-Type: application/json
+
+{
+  "username": "846097464@qq.com",
+  "password": "12356"
+}
+
+###
+POST http://localhost:8081/loginByPassword
+Content-Type: application/json
+
+{
+  "username": "84609764@qq.com",
+  "password": "123456"
+}
+
+###
+POST http://localhost:8081/loginByPassword
+Content-Type: application/json
+
+{
+  "username": "846097464@qq.com",
+  "password": "123456"
+}
+
+###
+GET http://localhost:8081/logout
+Accept: application/json
+
+###
+
+
+###
+POST http://localhost:8081/loginByPassword
+Content-Type: application/json
+
+{
+  "username": "1989203838@qq.com",
+  "password": "123456"
+}
+###

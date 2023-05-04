@@ -1,0 +1,168 @@
+{
+  "code": 200,
+  "message": "成功",
+  "result": [
+    {
+      "messageId": 1,
+      "sendId": 3,
+      "receiveId": 2,
+      "content": "12",
+      "createdDate": "2023-04-27T08:42:29",
+      "isRead": 0,
+      "dialogue": 1
+    },
+    {
+      "messageId": 2,
+      "sendId": 3,
+      "receiveId": 2,
+      "content": "test",
+      "createdDate": "2023-04-27T08:47:34",
+      "isRead": 0,
+      "dialogue": 1
+    },
+    {
+      "messageId": 3,
+      "sendId": 3,
+      "receiveId": 2,
+      "content": "21212",
+      "createdDate": "2023-04-27T08:51:53",
+      "isRead": 0,
+      "dialogue": 1
+    },
+    {
+      "messageId": 4,
+      "sendId": 3,
+      "receiveId": 2,
+      "content": "1221",
+      "createdDate": "2023-04-27T08:53:41",
+      "isRead": 0,
+      "dialogue": 1
+    },
+    {
+      "messageId": 5,
+      "sendId": 3,
+      "receiveId": 2,
+      "content": "12212",
+      "createdDate": "2023-04-27T08:54:35",
+      "isRead": 0,
+      "dialogue": 1
+    },
+    {
+      "messageId": 6,
+      "sendId": 3,
+      "receiveId": 2,
+      "content": "12",
+      "createdDate": "2023-04-27T08:59:44",
+      "isRead": 0,
+      "dialogue": 1
+    },
+    {
+      "messageId": 7,
+      "sendId": 3,
+      "receiveId": 2,
+      "content": "122233",
+      "createdDate": "2023-04-27T09:01:20",
+      "isRead": 0,
+      "dialogue": 1
+    },
+    {
+      "messageId": 8,
+      "sendId": 2,
+      "receiveId": 3,
+      "content": "12",
+      "createdDate": "2023-04-27T09:06:16",
+      "isRead": 0,
+      "dialogue": 1
+    },
+    {
+      "messageId": 9,
+      "sendId": 2,
+      "receiveId": 3,
+      "content": "12",
+      "createdDate": "2023-04-27T09:06:30",
+      "isRead": 0,
+      "dialogue": 1
+    },
+    {
+      "messageId": 10,
+      "sendId": 3,
+      "receiveId": 2,
+      "content": "1223",
+      "createdDate": "2023-04-27T09:10:51",
+      "isRead": 0,
+      "dialogue": 1
+    },
+    {
+      "messageId": 11,
+      "sendId": 3,
+      "receiveId": 2,
+      "content": "21213",
+      "createdDate": "2023-04-27T09:11:48",
+      "isRead": 0,
+      "dialogue": 1
+    },
+    {
+      "messageId": 12,
+      "sendId": 3,
+      "receiveId": 2,
+      "content": "123124",
+      "createdDate": "2023-04-27T09:12:44",
+      "isRead": 0,
+      "dialogue": 1
+    },
+    {
+      "messageId": 13,
+      "sendId": 2,
+      "receiveId": 3,
+      "content": "1233",
+      "createdDate": "2023-04-27T09:15:09",
+      "isRead": 0,
+      "dialogue": 1
+    },
+    {
+      "messageId": 14,
+      "sendId": 2,
+      "receiveId": 3,
+      "content": "1235546",
+      "createdDate": "2023-04-27T09:16:44",
+      "isRead": 0,
+      "dialogue": 1
+    },
+    {
+      "messageId": 15,
+      "sendId": 2,
+      "receiveId": 3,
+      "content": "12354",
+      "createdDate": "2023-04-27T09:22:39",
+      "isRead": 0,
+      "dialogue": 1
+    },
+    {
+      "messageId": 16,
+      "sendId": 2,
+      "receiveId": 3,
+      "content": "睡觉哦我",
+      "createdDate": "2023-04-27T09:26:37",
+      "isRead": 0,
+      "dialogue": 1
+    },
+    {
+      "messageId": 17,
+      "sendId": 2,
+      "receiveId": 3,
+      "content": "成功",
+      "createdDate": "2023-04-27T09:35:30",
+      "isRead": 0,
+      "dialogue": 1
+    },
+    {
+      "messageId": 18,
+      "sendId": 3,
+      "receiveId": 2,
+      "content": "yes",
+      "createdDate": "2023-04-27T09:35:55",
+      "isRead": 0,
+      "dialogue": 1
+    }
+  ]
+}

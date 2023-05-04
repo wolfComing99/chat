@@ -1,0 +1,28 @@
+[2023-04-24 09:10:15:046] [WARN] - com.baomidou.mybatisplus.core.metadata.TableInfoHelper.initTableFields(TableInfoHelper.java:342) - Can not find table primary key in Class: "com.wolf.entity.Friend".
+[2023-04-24 09:10:15:047] [WARN] - com.baomidou.mybatisplus.core.injector.DefaultSqlInjector.getMethodList(DefaultSqlInjector.java:56) - class com.wolf.entity.Friend ,Not found @TableId annotation, Cannot use Mybatis-Plus 'xxById' Method.
+[2023-04-24 09:19:45:699] [WARN] - com.baomidou.mybatisplus.core.metadata.TableInfoHelper.initTableFields(TableInfoHelper.java:342) - Can not find table primary key in Class: "com.wolf.entity.Friend".
+[2023-04-24 09:19:45:699] [WARN] - com.baomidou.mybatisplus.core.injector.DefaultSqlInjector.getMethodList(DefaultSqlInjector.java:56) - class com.wolf.entity.Friend ,Not found @TableId annotation, Cannot use Mybatis-Plus 'xxById' Method.
+[2023-04-24 09:47:43:473] [WARN] - com.baomidou.mybatisplus.core.metadata.TableInfoHelper.initTableFields(TableInfoHelper.java:342) - Can not find table primary key in Class: "com.wolf.entity.Friend".
+[2023-04-24 09:47:43:473] [WARN] - com.baomidou.mybatisplus.core.injector.DefaultSqlInjector.getMethodList(DefaultSqlInjector.java:56) - class com.wolf.entity.Friend ,Not found @TableId annotation, Cannot use Mybatis-Plus 'xxById' Method.
+[2023-04-24 09:47:46:420] [WARN] - com.baomidou.mybatisplus.core.metadata.TableInfoHelper.initTableFields(TableInfoHelper.java:342) - Can not find table primary key in Class: "com.wolf.entity.Friend".
+[2023-04-24 09:47:46:420] [WARN] - com.baomidou.mybatisplus.core.injector.DefaultSqlInjector.getMethodList(DefaultSqlInjector.java:56) - class com.wolf.entity.Friend ,Not found @TableId annotation, Cannot use Mybatis-Plus 'xxById' Method.
+[2023-04-24 09:50:38:665] [WARN] - sun.rmi.runtime.Log$LoggerLog.log(Log.java:237) - RMI TCP Accept-0: accept loop for ServerSocket[addr=0.0.0.0/0.0.0.0,localport=50268] throws
+java.io.IOException: The server sockets created using the LocalRMIServerSocketFactory only accept connections from clients running on the host where the RMI remote objects have been exported.
+	at sun.management.jmxremote.LocalRMIServerSocketFactory$1.accept(LocalRMIServerSocketFactory.java:114) ~[?:1.8.0_371]
+	at sun.rmi.transport.tcp.TCPTransport$AcceptLoop.executeAcceptLoop(TCPTransport.java:405) [?:1.8.0_371]
+	at sun.rmi.transport.tcp.TCPTransport$AcceptLoop.run(TCPTransport.java:377) [?:1.8.0_371]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_371]
+[2023-04-24 09:51:06:329] [WARN] - sun.rmi.runtime.Log$LoggerLog.log(Log.java:237) - RMI TCP Accept-0: accept loop for ServerSocket[addr=0.0.0.0/0.0.0.0,localport=50268] throws
+java.io.IOException: The server sockets created using the LocalRMIServerSocketFactory only accept connections from clients running on the host where the RMI remote objects have been exported.
+	at sun.management.jmxremote.LocalRMIServerSocketFactory$1.accept(LocalRMIServerSocketFactory.java:114) ~[?:1.8.0_371]
+	at sun.rmi.transport.tcp.TCPTransport$AcceptLoop.executeAcceptLoop(TCPTransport.java:405) [?:1.8.0_371]
+	at sun.rmi.transport.tcp.TCPTransport$AcceptLoop.run(TCPTransport.java:377) [?:1.8.0_371]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_371]
+[2023-04-24 09:58:08:308] [WARN] - com.baomidou.mybatisplus.core.metadata.TableInfoHelper.initTableFields(TableInfoHelper.java:342) - Can not find table primary key in Class: "com.wolf.entity.Friend".
+[2023-04-24 09:58:08:308] [WARN] - com.baomidou.mybatisplus.core.injector.DefaultSqlInjector.getMethodList(DefaultSqlInjector.java:56) - class com.wolf.entity.Friend ,Not found @TableId annotation, Cannot use Mybatis-Plus 'xxById' Method.
+[2023-04-24 10:03:21:321] [WARN] - com.baomidou.mybatisplus.core.metadata.TableInfoHelper.initTableFields(TableInfoHelper.java:342) - Can not find table primary key in Class: "com.wolf.entity.Friend".
+[2023-04-24 10:03:21:321] [WARN] - com.baomidou.mybatisplus.core.injector.DefaultSqlInjector.getMethodList(DefaultSqlInjector.java:56) - class com.wolf.entity.Friend ,Not found @TableId annotation, Cannot use Mybatis-Plus 'xxById' Method.
+[2023-04-24 10:08:39:802] [WARN] - com.baomidou.mybatisplus.core.metadata.TableInfoHelper.initTableFields(TableInfoHelper.java:342) - Can not find table primary key in Class: "com.wolf.entity.Friend".
+[2023-04-24 10:08:39:802] [WARN] - com.baomidou.mybatisplus.core.injector.DefaultSqlInjector.getMethodList(DefaultSqlInjector.java:56) - class com.wolf.entity.Friend ,Not found @TableId annotation, Cannot use Mybatis-Plus 'xxById' Method.
+[2023-04-24 10:09:55:353] [WARN] - com.baomidou.mybatisplus.core.metadata.TableInfoHelper.initTableFields(TableInfoHelper.java:342) - Can not find table primary key in Class: "com.wolf.entity.Friend".
+[2023-04-24 10:09:55:353] [WARN] - com.baomidou.mybatisplus.core.injector.DefaultSqlInjector.getMethodList(DefaultSqlInjector.java:56) - class com.wolf.entity.Friend ,Not found @TableId annotation, Cannot use Mybatis-Plus 'xxById' Method.

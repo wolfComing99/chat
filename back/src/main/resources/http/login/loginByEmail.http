@@ -1,0 +1,13 @@
+POST http://localhost:8081/loginByVerification
+Content-Type: application/json
+
+{
+  "username": "846097464@qq.com",
+  "code": "3rjfLX"
+}
+
+###
+GET http://localhost:8081/sendCode?email=846097464@qq.com
+Accept: application/json
+
+###

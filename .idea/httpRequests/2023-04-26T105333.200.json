@@ -1,0 +1,34 @@
+{
+  "code": 200,
+  "message": "成功",
+  "result": [
+    {
+      "uid": 3,
+      "friendId": 2,
+      "intimacy": 0,
+      "remark": null,
+      "dialogue": 1
+    },
+    {
+      "uid": 3,
+      "friendId": 4,
+      "intimacy": 0,
+      "remark": null,
+      "dialogue": 2
+    },
+    {
+      "uid": 3,
+      "friendId": 5,
+      "intimacy": 0,
+      "remark": null,
+      "dialogue": 3
+    },
+    {
+      "uid": 3,
+      "friendId": 6,
+      "intimacy": 0,
+      "remark": null,
+      "dialogue": 4
+    }
+  ]
+}

@@ -1,0 +1,463 @@
+GET http://localhost:8081/message/getNotRead?uid=2
+Accept: application/json
+
+<> 2023-04-28T121258.200.json
+
+###
+
+GET http://localhost:8081/message/getMessage?uid=2&friendId=3
+Accept: application/json
+
+<> 2023-04-28T105554.200.json
+
+###
+
+GET http://localhost:8081/message/getMessage?uid=2&friendId=3
+Accept: application/json
+
+<> 2023-04-28T105141.404.json
+
+###
+
+GET http://localhost:8081/message/getMessage?uid=2&friendId=3
+Accept: application/json
+
+<> 2023-04-28T105033.404.json
+
+###
+
+GET http://localhost:8081/message/getMessage?uid=2&friendId=3
+Accept: application/json
+
+<> 2023-04-28T102957.500.json
+
+###
+
+GET http://localhost:8081/message/getMessage?uid=2&friendId=3
+Accept: application/json
+
+<> 2023-04-28T102945.500.json
+
+###
+
+GET http://localhost:8081/message/getMessage?uid=2&friendId=3
+Accept: application/json
+
+<> 2023-04-28T102848.500.json
+
+###
+
+GET http://localhost:8081/user/getByUid?uid=3
+Accept: application/json
+
+<> 2023-04-26T153418.200.json
+
+###
+
+GET http://localhost:8081/user/getByUid?uid=3
+Accept: application/json
+
+<> 2023-04-26T150345.200.json
+
+###
+
+GET http://localhost:8081/friend/getAll?uid=3
+Accept: application/json
+
+<> 2023-04-26T110834.200.json
+
+###
+
+GET http://localhost:8081/friend/getAll?uid=3
+Accept: application/json
+
+<> 2023-04-26T110730.200.json
+
+###
+
+GET http://localhost:8081/friend/getAll?uid=3
+Accept: application/json
+
+<> 2023-04-26T110654.200.json
+
+###
+
+GET http://localhost:8081/friend/getAll?uid=3
+Accept: application/json
+
+<> 2023-04-26T110547.200.json
+
+###
+
+GET http://localhost:8081/friend/getAll?uid=3
+Accept: application/json
+
+<> 2023-04-26T105333.200.json
+
+###
+
+GET http://localhost:8081/friend/getAll?uid=3
+Accept: application/json
+
+<> 2023-04-26T105134.404.json
+
+###
+
+GET http://localhost:8081/friend/getAll?uid=3
+Accept: application/json
+
+<> 2023-04-26T105110.400.json
+
+###
+
+GET http://localhost:8081/friend/getAll/3
+Accept: application/json
+
+<> 2023-04-26T103838.404.json
+
+###
+
+GET http://localhost:8081/friend/getAll/uid=3
+Accept: application/json
+
+<> 2023-04-26T103820.400.json
+
+###
+
+GET http://localhost:8081/friend/getAll/3
+Accept: application/json
+
+<> 2023-04-26T103810.404.json
+
+###
+
+GET http://localhost:8081/friend/getAll/uid=3
+Accept: application/json
+
+<> 2023-04-26T103758.400.json
+
+###
+
+GET http://localhost:8081/friend/getAll?uid=3
+Accept: application/json
+
+<> 2023-04-26T103447.404.json
+
+###
+
+GET http://localhost:8081/friend/getAll?uid=3
+Accept: application/json
+
+<> 2023-04-26T103444.404.json
+
+###
+
+GET http://localhost:8081/friend/getAll
+Accept: application/json
+
+<> 2023-04-26T103436.404.json
+
+###
+
+GET http://localhost:8081/friend/getAll?uid=3
+Accept: application/json
+
+<> 2023-04-26T103008.404.json
+
+###
+
+GET http://localhost:8081/friend/getAll?uid=3
+Accept: application/json
+
+<> 2023-04-26T103003.404.json
+
+###
+
+GET http://localhost:8081/friend/get?uid=3
+Accept: application/json
+
+<> 2023-04-26T102916.404.json
+
+###
+
+GET http://localhost:8081/friend?uid=3
+Accept: application/json
+
+<> 2023-04-26T102834.500.json
+
+###
+
+GET http://localhost:8081/friend?uid=3
+Accept: application/json
+
+<> 2023-04-26T102755.404.json
+
+###
+
+POST http://localhost:8081/register
+Content-Type: application/json
+
+{
+  "username": "987654321@qq.com",
+  "password": "123456",
+  "nickname": "test2",
+  "sex": "女",
+  "birthday": "2001-02-22"
+}
+
+<> 2023-04-26T101123-1.200.json
+
+###
+
+POST http://localhost:8081/register
+Content-Type: application/json
+
+{
+  "username": "1151928349@qq.com",
+  "password": "123456",
+  "nickname": "Nehcyppah",
+  "sex": "女",
+  "birthday": "2001-02-22"
+}
+
+<> 2023-04-26T101123.200.json
+
+###
+
+POST http://localhost:8081/register
+Content-Type: application/json
+
+{
+  "username": "123456789@qq.com",
+  "password": "123456",
+  "nickname": "test1",
+  "sex": "女",
+  "birthday": "2001-02-22"
+}
+
+<> 2023-04-26T101122-2.200.json
+
+###
+
+POST http://localhost:8081/register
+Content-Type: application/json
+
+{
+  "username": "846097464@qq.com",
+  "password": "123456",
+  "nickname": "狼来了",
+  "sex": "男",
+  "birthday": "2001-01-26"
+}
+
+<> 2023-04-26T101122-1.200.json
+
+###
+
+POST http://localhost:8081/register
+Content-Type: application/json
+
+{
+  "username": "1989203838@qq.com",
+  "password": "123456",
+  "nickname": "年糕",
+  "sex": "女",
+  "birthday": "2000-09-26"
+}
+
+<> 2023-04-26T101122.200.json
+
+###
+
+POST http://localhost:8081/user/uploadAvatar
+Content-Type: application/json
+
+{
+  "uid": "3",
+  "avatar": "http://localhost:8081/upload/avatar/avatar_3.jpg"
+}
+
+<> 2023-04-25T114137.400.json
+
+###
+
+POST http://localhost:8081/user/uploadAvatar
+Content-Type: application/json
+
+{
+  "uid": "3",
+  "avatar": "http://localhost:8081/upload/avatar/avatar_3.jpg"
+}
+
+<> 2023-04-25T113827.400.json
+
+###
+
+POST http://localhost:8081/user/uploadAvatar
+Content-Type: application/json
+
+{
+  "uid": "3",
+  "avatar": "http://localhost:8081/upload/avatar/avatar_3.jpg"
+}
+
+<> 2023-04-25T113635.400.json
+
+###
+
+POST http://localhost:8081/user/uploadAvatar
+Content-Type: application/json
+
+{
+  "uid": "3",
+  "avatar": "http://localhost:8081/upload/avatar/avatar_3.jpg"
+}
+
+<> 2023-04-25T113542.400.json
+
+###
+
+POST http://localhost:8081/user/uploadAvatar
+Content-Type: application/json
+
+{
+  "uid": "3",
+  "avatar": "http://localhost:8081/upload/avatar/avatar_3.jpg"
+}
+
+<> 2023-04-24T215210.400.json
+
+###
+
+POST http://localhost:8081/user/uploadAvatar
+Content-Type: application/json
+
+{
+  "uid": "3",
+  "avatar": "http://localhost:8081/upload/avatar/avatar_3.jpg"
+}
+
+<> 2023-04-24T210312.400.json
+
+###
+
+POST http://localhost:8081/user/uploadAvatar
+Content-Type: application/json
+
+{
+  "uid": "3",
+  "avatar": "http://localhost:8081/upload/avatar/avatar_3.jpg"
+}
+
+<> 2023-04-24T205625.400.json
+
+###
+
+POST http://localhost:8081/user/uploadAvatar
+Content-Type: application/json
+
+{
+  "uid": "3",
+  "avatar": "http://localhost:8081/upload/avatar/avatar_3.jpg"
+}
+
+<> 2023-04-24T205540.400.json
+
+###
+
+POST http://localhost:8081/user/uploadAvatar
+Content-Type: application/json
+
+{
+  "uid": "3",
+  "avatar": "http://localhost:8081/upload/avatar/avatar_3.jpg"
+}
+
+<> 2023-04-24T205537.400.json
+
+###
+
+POST http://localhost:8081/user/uploadAvatar
+Content-Type: application/json
+
+{
+  "uid": 3,
+  "avatar": "http://localhost:8081/upload/avatar/avatar_3.jpg"
+}
+
+<> 2023-04-24T205513.400.json
+
+###
+
+POST http://localhost:8081/user/uploadAvatar
+Content-Type: application/json
+
+{
+  "uid": 3,
+  "avatar": "http://localhost:8081/upload/avatar/avatar_3.jpg"
+}
+
+<> 2023-04-24T204508.400.json
+
+###
+
+POST http://localhost:8081/loginByVerification
+Content-Type: application/json
+
+{
+  "username": "846097464@qq.com",
+  "code": "3rjfLX"
+}
+
+<> 2023-04-24T105930.200.json
+
+###
+
+POST http://localhost:8081/loginByVerification
+Content-Type: application/json
+
+{
+  "username": "846097464@qq.com",
+  "code": ""
+}
+
+<> 2023-04-24T105926.200.json
+
+###
+
+POST http://localhost:8081/loginByVerification
+Content-Type: application/json
+
+{
+  "username": "846097464@qq.com",
+  "code": "3rjfLX"
+}
+
+<> 2023-04-24T105913.200.json
+
+###
+
+GET http://localhost:8081/sendCode?email=846097464@qq.com
+Accept: application/json
+
+<> 2023-04-24T105628.200.json
+
+###
+
+GET http://localhost:8081/sendCode?email=846097464@qq.com
+Accept: application/json
+
+###
+
+POST http://localhost:8080/loginByPassword
+Content-Type: application/json
+
+{
+  "username": "846097464@qq.com",
+  "password": "123456"
+}
+
+<> 2023-04-24T100511.200.json
+
+###
+

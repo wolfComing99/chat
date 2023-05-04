@@ -1,0 +1,17 @@
+{
+  "code": 200,
+  "message": "成功",
+  "result": {
+    "uid": 4,
+    "username": "123456789@qq.com",
+    "password": "174e6bf3436c38de71427bb03bdde299",
+    "nickname": "test1",
+    "sex": "女",
+    "introduction": null,
+    "profession": null,
+    "birthday": "2001-02-22",
+    "avatar": null,
+    "online": null,
+    "salt": "8PlV1NrC1aTuH3EN5MWQYw=="
+  }
+}
